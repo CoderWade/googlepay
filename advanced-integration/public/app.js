@@ -148,7 +148,7 @@ function getGoogleTransactionInfo(countryCode) {
     countryCode: countryCode,
     currencyCode: "USD",
     totalPriceStatus: "FINAL",
-    totalPrice: "0.10",
+    totalPrice: "10.00",
     totalPriceLabel: "Total"
   };
 }
